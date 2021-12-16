@@ -1,0 +1,470 @@
+Using pre-set license
+Desktop is 1920 x 1080 @ 60 Hz
+
+ COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/media/dana-paani/Pulkit/AR-Draw-master
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+42315
+Successfully changed project path to: /media/dana-paani/Pulkit/AR-Draw-master
+/media/dana-paani/Pulkit/AR-Draw-master
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 56.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path /media/dana-paani/Pulkit/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /media/dana-paani/Pulkit/AR-Draw-master/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Renderer: Mesa Intel(R) UHD Graphics 620 (WHL GT2)
+Vendor:   Intel
+Version:  4.6 (Core Profile) Mesa 20.2.6
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
+_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
+int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier G
+L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
+t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback G
+L_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 729221904
+Initialize mono
+Mono path[0] = '/media/dana-paani/Pulkit/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = '/media/dana-paani/Pulkit/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/media/dana-paani/Pulkit/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56210
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /media/dana-paani/Pulkit/2020.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.011169 seconds.
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 32.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.940 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011967 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.947 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1365 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.4 MB.
+System memory in use after: 59.4 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1805.
+Total: 3.492728 ms (FindLiveObjects: 0.218019 ms CreateObjectMapping: 0.079187 ms MarkObjects: 3.000652 ms  DeleteObjects: 0.192838 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Materials/TrailMaterial.mat
+  artifactKey: Guid(c0d8934ebdcde3e41b5b77279d1aa87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TrailMaterial.mat using Guid(c0d8934ebdcde3e41b5b77279d1aa87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '612d03fa1c504237cb6a347878fed0c5') in 0.396354 seconds
+  Import took 0.399271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Textures/Pencil.png
+  artifactKey: Guid(297ab391a3ff089499d39f7b63e9fc3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Pencil.png using Guid(297ab391a3ff089499d39f7b63e9fc3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c08e57ee10bb6a756bfeb56112f61c7') in 0.032254 seconds
+  Import took 0.034604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Textures/Sphere.png
+  artifactKey: Guid(5465a3676ed52954cac28877ab3021fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Sphere.png using Guid(5465a3676ed52954cac28877ab3021fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '657f9904fbb2db39daa91d2a722a4ff7') in 0.016892 seconds
+  Import took 0.019923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Prefabs/BrushIndicator.prefab
+  artifactKey: Guid(52dee610fbe81d641b2a19db4e669339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BrushIndicator.prefab using Guid(52dee610fbe81d641b2a19db4e669339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62c396523c0829e15d48054fc7fa4be4') in 0.351135 seconds
+  Import took 0.353894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Materials/IndicatorMaterial.mat
+  artifactKey: Guid(a690c955868d2114ab9f39d6e8621c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/IndicatorMaterial.mat using Guid(a690c955868d2114ab9f39d6e8621c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a66c17af66100bff3f918dca72eb21') in 0.012206 seconds
+  Import took 0.014701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Textures/Hide.png
+  artifactKey: Guid(d6934a417f6f7b642874151ebbe0f5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Hide.png using Guid(d6934a417f6f7b642874151ebbe0f5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e74d50033c6b6e9fc65a15e106d988') in 0.023942 seconds
+  Import took 0.028152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Textures/Show.png
+  artifactKey: Guid(e17281cc66095be4b8b8c4cdf5ebbfcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Show.png using Guid(e17281cc66095be4b8b8c4cdf5ebbfcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca38096328b987012541df22ab37f1e0') in 0.031747 seconds
+  Import took 0.034874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Prefabs/Sphere.prefab
+  artifactKey: Guid(a80cab844b8c2c04aab8dac547b1e3b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sphere.prefab using Guid(a80cab844b8c2c04aab8dac547b1e3b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3131c4bf2db6fa7ef27b0a03436dc89') in 0.015975 seconds
+  Import took 0.018884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Textures/BrushIndicator.png
+  artifactKey: Guid(308bbc7c95e836744955af0171c5c2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BrushIndicator.png using Guid(308bbc7c95e836744955af0171c5c2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eca06d0175fc7cf3d66b28bc5344d333') in 0.020491 seconds
+  Import took 0.023549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Textures/Logo.png
+  artifactKey: Guid(de28c1629676e4d469d3895e808d5950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Logo.png using Guid(de28c1629676e4d469d3895e808d5950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29745ce026a8282437258c1fa2940c5') in 0.023757 seconds
+  Import took 0.027056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Models/Mesh_Eagle.obj
+  artifactKey: Guid(59b0d9e70cda61648a88ca5f2f1e1d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Mesh_Eagle.obj using Guid(59b0d9e70cda61648a88ca5f2f1e1d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7f5b1a324fb52f638f4a28fcfd4c533') in 0.057768 seconds
+  Import took 0.060780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Textures/Logo.png
+  artifactKey: Guid(de28c1629676e4d469d3895e808d5950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Logo.png using Guid(de28c1629676e4d469d3895e808d5950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29745ce026a8282437258c1fa2940c5') in 0.014955 seconds
+  Import took 0.017665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.669057 seconds.
+  path: Assets/GoogleARCore/Prefabs/ARCore Device.prefab
+  artifactKey: Guid(c10877f7cd5764de18d46d7b777d1faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Prefabs/ARCore Device.prefab using Guid(c10877f7cd5764de18d46d7b777d1faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a45d8033e0512988855997dd4e8c9f') in 0.037687 seconds
+  Import took 0.040465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/GoogleARCore/Examples/ObjectManipulation/Prefabs/SelectionVisualization.prefab
+  artifactKey: Guid(7d0743a125cdd42448a1538052d37603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/ObjectManipulation/Prefabs/SelectionVisualization.prefab using Guid(7d0743a125cdd42448a1538052d37603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e3bdc207342a6c235d8de26790bbf0') in 0.012993 seconds
+  Import took 0.016008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedImage/Prefabs/AugmentedImageVisualizer.prefab
+  artifactKey: Guid(85a5b6187b6924bd5adcdffee036da34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedImage/Prefabs/AugmentedImageVisualizer.prefab using Guid(85a5b6187b6924bd5adcdffee036da34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c696218663d56d63ebf1a5f235882cf4') in 0.025431 seconds
+  Import took 0.028679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Prefabs/PlaneDiscovery.prefab
+  artifactKey: Guid(c539aa4fa1bac4b4da61761b0699b48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Prefabs/PlaneDiscovery.prefab using Guid(c539aa4fa1bac4b4da61761b0699b48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '037b9f305fb1515d393151f258e8cd68') in 0.029963 seconds
+  Import took 0.033392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/GoogleARCore/Examples/ObjectManipulation/Prefabs/ManipulationSystem.prefab
+  artifactKey: Guid(c0107a62880924f8cb2526c6800a70ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/ObjectManipulation/Prefabs/ManipulationSystem.prefab using Guid(c0107a62880924f8cb2526c6800a70ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd894e6ec5299205fac921efe72e1ed') in 0.008796 seconds
+  Import took 0.012219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/GoogleARCore/Examples/ObjectManipulation/Prefabs/Manipulator.prefab
+  artifactKey: Guid(24556cd4924884d9aaa3d80135c8021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/ObjectManipulation/Prefabs/Manipulator.prefab using Guid(24556cd4924884d9aaa3d80135c8021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6e5ffa7639483e1b5db0341be110b8e') in 0.015784 seconds
+  Import took 0.019540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Prefabs/ARCorePawn.prefab
+  artifactKey: Guid(8b604092cbb3d482da82845b61a6809b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Prefabs/ARCorePawn.prefab using Guid(8b604092cbb3d482da82845b61a6809b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b736115e2b26f2627425a2af99a61b97') in 0.345057 seconds
+  Import took 0.348145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/GoogleARCore/Prefabs/Environmental Light.prefab
+  artifactKey: Guid(cf498fc35b538884db557f7a9a2c0ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Prefabs/Environmental Light.prefab using Guid(cf498fc35b538884db557f7a9a2c0ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32096946f2da9c86fb25e169cddc5ce6') in 0.006825 seconds
+  Import took 0.009302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/GoogleARCore/Examples/ObjectManipulation/Prefabs/ElevationVisualization.prefab
+  artifactKey: Guid(7a97ef336860c40b295966af75f4c397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/ObjectManipulation/Prefabs/ElevationVisualization.prefab using Guid(7a97ef336860c40b295966af75f4c397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b135454e8cb70a6a7867be5db97cd12') in 0.008218 seconds
+  Import took 0.011494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Prefabs/DetectedPlaneVisualizer.prefab
+  artifactKey: Guid(6a35c744e5010405c847fad90282d2be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Prefabs/DetectedPlaneVisualizer.prefab using Guid(6a35c744e5010405c847fad90282d2be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5606f9a621b7019da54ced0b999ddec8') in 0.030224 seconds
+  Import took 0.033535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Prefabs/PointCloud.prefab
+  artifactKey: Guid(26558ae1d2e7243728486d789f984c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Prefabs/PointCloud.prefab using Guid(26558ae1d2e7243728486d789f984c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17fdb38a282f3a240da3f11e69e8e56e') in 0.027069 seconds
+  Import took 0.029890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab
+  artifactKey: Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab using Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113e7884b6c69f3d84eee13089854a7b') in 0.011032 seconds
+  Import took 0.014516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008166 seconds.
+  path: Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab
+  artifactKey: Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab using Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113e7884b6c69f3d84eee13089854a7b') in 0.009847 seconds
+  Import took 0.013826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.012892 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/ARCore_pawn.fbx
+  artifactKey: Guid(f84456e53845d45738b1156787e9a29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/ARCore_pawn.fbx using Guid(f84456e53845d45738b1156787e9a29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e010c3510b069a9574297d33277b18') in 0.027972 seconds
+  Import took 0.031434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedFaces/Models/canonical_face_mesh.fbx
+  artifactKey: Guid(538464acafcf3406f94cb7a5cb51f0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedFaces/Models/canonical_face_mesh.fbx using Guid(538464acafcf3406f94cb7a5cb51f0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c5f2681dd51cc9922b68daa5aec8f66') in 0.044984 seconds
+  Import took 0.047910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedFaces/Models/fox_sample.fbx
+  artifactKey: Guid(909f7e3faf16c4c1983434120ad9d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedFaces/Models/fox_sample.fbx using Guid(909f7e3faf16c4c1983434120ad9d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c50cc0a8ffaf6df0ade707121f818c') in 0.056610 seconds
+  Import took 0.059579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameLowerRight.obj
+  artifactKey: Guid(1824455c8ec9e45ceb5a919fe307ab24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameLowerRight.obj using Guid(1824455c8ec9e45ceb5a919fe307ab24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113ca0c3be0a94a6fc0e4c55f3499b88') in 0.031272 seconds
+  Import took 0.034044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameUpperLeft.obj
+  artifactKey: Guid(6666c2b1b39a3466c96b2a4be1428ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameUpperLeft.obj using Guid(6666c2b1b39a3466c96b2a4be1428ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3455f681bcde27c61f208ab4a71032') in 0.033221 seconds
+  Import took 0.036994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/GoogleARCore/Examples/ObjectManipulation/Materials/footprint.obj
+  artifactKey: Guid(f46e9f4cfc2694e5ea2041902ce3c91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/ObjectManipulation/Materials/footprint.obj using Guid(f46e9f4cfc2694e5ea2041902ce3c91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3763e784db26d162939d705ad65fd54b') in 0.033084 seconds
+  Import took 0.036683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameLowerLeft.obj
+  artifactKey: Guid(74aca5660a7fd4b9eb3611a73c368d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameLowerLeft.obj using Guid(74aca5660a7fd4b9eb3611a73c368d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd6c5b49e9874f8aab06dcbf5764bf13') in 0.047162 seconds
+  Import took 0.050216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameUpperRight.obj
+  artifactKey: Guid(72a7c3ddfe10740bba966d9a6f05202b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameUpperRight.obj using Guid(72a7c3ddfe10740bba966d9a6f05202b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc6948af8c4f26646f6642262336ceda') in 0.033642 seconds
+  Import took 0.036643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007361 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameUpperRight.obj
+  artifactKey: Guid(72a7c3ddfe10740bba966d9a6f05202b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/FrameUpperRight.obj using Guid(72a7c3ddfe10740bba966d9a6f05202b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc6948af8c4f26646f6642262336ceda') in 0.029717 seconds
+  Import took 0.033146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.216307 seconds.
+  path: Assets/GoogleARCore/SDK/Materials/ARBackground.mat
+  artifactKey: Guid(03ad0130a037647aeb60218f61aca114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/SDK/Materials/ARBackground.mat using Guid(03ad0130a037647aeb60218f61aca114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c023920685845049f3b73e93975f4512') in 0.021113 seconds
+  Import took 0.024765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/PawnYellow.mat
+  artifactKey: Guid(323489e10f1294dc09fbdd17ce5eddbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/PawnYellow.mat using Guid(323489e10f1294dc09fbdd17ce5eddbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de1d390715eae32251388987749b27fc') in 0.013029 seconds
+  Import took 0.015888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Roboto-Regular.ttf
+  artifactKey: Guid(f66655b38428d40769e9e41ee237cbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Roboto-Regular.ttf using Guid(f66655b38428d40769e9e41ee237cbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8da9f7b16f79b666b02a5ee1b315c15e') in 0.038814 seconds
+  Import took 0.042115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedFaces/Materials/FoxNoiseMaterial.mat
+  artifactKey: Guid(3e6f4ede1d3624331a46ec5006f54bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedFaces/Materials/FoxNoiseMaterial.mat using Guid(3e6f4ede1d3624331a46ec5006f54bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d2d5d11855edc8c0deb2f35cade88d') in 0.046870 seconds
+  Import took 0.049636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedFaces/Materials/FoxFaceMaterial.mat
+  artifactKey: Guid(0bd8659d068ce46a184e47548889cadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedFaces/Materials/FoxFaceMaterial.mat using Guid(0bd8659d068ce46a184e47548889cadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc6727bf5ca7b3f3c32f2352cf2c3876') in 0.037532 seconds
+  Import took 0.040430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/GoogleARCore/Examples/ComputerVision/Materials/EdgeDetectionBackgroundMaterial.mat
+  artifactKey: Guid(44aa46aeaaf4d46a79e18f3e2da31ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/ComputerVision/Materials/EdgeDetectionBackgroundMaterial.mat using Guid(44aa46aeaaf4d46a79e18f3e2da31ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be0274006cb3a859e98157b704176401') in 0.018417 seconds
+  Import took 0.020970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/PawnGreen.mat
+  artifactKey: Guid(497ba9ca2875647c480e107fef5391be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/PawnGreen.mat using Guid(497ba9ca2875647c480e107fef5391be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fdcedd769c95bccd9740dd2e59544bc') in 0.021765 seconds
+  Import took 0.025348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedFaces/Materials/FaceOccluderMaterial.mat
+  artifactKey: Guid(d8551dc61be7f44668bdd51d1bffe2c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedFaces/Materials/FaceOccluderMaterial.mat using Guid(d8551dc61be7f44668bdd51d1bffe2c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62f34f5c81654276bb70426b8db344e4') in 0.021682 seconds
+  Import took 0.025438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/PawnBlue.mat
+  artifactKey: Guid(70896cee61b874ab4bf0c86e9192ba57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/PawnBlue.mat using Guid(70896cee61b874ab4bf0c86e9192ba57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a70ea4ad59507a2e8d1ee600472534d7') in 0.021132 seconds
+  Import took 0.024504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/PlaneGrid.mat
+  artifactKey: Guid(92b1ca249edc047509db2c7bc05789ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/PlaneGrid.mat using Guid(92b1ca249edc047509db2c7bc05789ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d10aab35315ebc10e6b9ab11d33f41') in 0.019864 seconds
+  Import took 0.023021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/PointCloud.mat
+  artifactKey: Guid(fb4fbd1b92e244df2bc6f43deb7a57a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/PointCloud.mat using Guid(fb4fbd1b92e244df2bc6f43deb7a57a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3dbbb0362baaa5554a94dfb035b954') in 0.020823 seconds
+  Import took 0.024628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedFaces/Materials/FoxEarMaterial.mat
+  artifactKey: Guid(8e3ccdbfb959e42c3b73ce3eabfbd40b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedFaces/Materials/FoxEarMaterial.mat using Guid(8e3ccdbfb959e42c3b73ce3eabfbd40b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b145557231bf7c8d244ad128549b0780') in 0.018068 seconds
+  Import took 0.021177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/ShadowPlane.mat
+  artifactKey: Guid(1543111f52ced4f468b402fcf46b850a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/ShadowPlane.mat using Guid(1543111f52ced4f468b402fcf46b850a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd259c55000028214aad2a6ca98585a39') in 0.020722 seconds
+  Import took 0.023648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/Frame Material.mat
+  artifactKey: Guid(457696d2cf54b4f558c12777332919a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedImage/Materials/Frame/Frame Material.mat using Guid(457696d2cf54b4f558c12777332919a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee100a6a456058f79cae7718d9f8311c') in 0.017033 seconds
+  Import took 0.020752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/GoogleARCore/Examples/ObjectManipulation/Materials/DottedLineMaterial.mat
+  artifactKey: Guid(71ea771be2757425aad4b6170b8dad4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/ObjectManipulation/Materials/DottedLineMaterial.mat using Guid(71ea771be2757425aad4b6170b8dad4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59c3e3434e260c524aab7b566b0604d8') in 0.058817 seconds
+  Import took 0.062162 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
